@@ -1,0 +1,24 @@
+{
+  "name": "node-and-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachamallaSwathi/Node-and-NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachamallaSwathi/Node-and-NPM/issues"
+  },
+  "homepage": "https://github.com/RachamallaSwathi/Node-and-NPM#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
